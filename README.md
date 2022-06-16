@@ -1,2 +1,2 @@
 # PipelineAsCode
-Leraning PaS from Labouardy
+Learning PaS from Labouardy
